@@ -3,8 +3,8 @@
   "type": "raw-package",
   "blockId": "I-1gchWRfJMkdR602u_-q",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "",
+    "ssh": "",
     "branch": "block_testPackage"
   },
   "parentBlockIDs": [],
