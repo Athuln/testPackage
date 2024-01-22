@@ -1,0 +1,17 @@
+{
+  "name": "testPackage",
+  "type": "raw-package",
+  "blockId": "I-1gchWRfJMkdR602u_-q",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testPackage"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "golang"
+}
